@@ -27,8 +27,7 @@ This is an Inventory Management System built in the form of a GUI desktop applic
 
 **Minimum Requirements:** JDK or JRE version 16.
 
-1. 📥 Download and unzip the ZIP folder: [InventoryManagement.zip](InventoryManagement.zip)
-2. 📥 Download the [SQL dump file](SQL/InventoryDB.sql)
+
 3. ⬆️ Import the SQL dump file using MySQL Workbench to locally create the sample schema and tables associated with this software.
 4. 🏃 After the inventory schema has been locally created, you can go ahead and run the JAR file (InventoryManagement.jar) included in the zip folder.
 5. 🔐 Default credentials for the connection to MySQL database are:
@@ -153,10 +152,4 @@ The software code has been divided into four different packages:
 - **Database:** Contains the ConnectionFactory class that retrieves the database connection and verifies user credentials for the application.
 - **User Interface (UI):** Contains all the GUI classes making up the interface layer of the software.
 
-Click [here](src/com/inventory/) to skip directly to the source code.
 
----
-
-## 🚧 Work-in-Progress
-
-This project is a work in progress, and more features are yet to be added with new technologies.
