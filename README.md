@@ -61,61 +61,67 @@ All the project dependencies are available in the [`lib`](lib/) directory.
 
 The login page takes in the credentials entered by the user and verifies with the database.
 
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/login.png
+)
 
 ### Dashboard/Welcome Page
 
 The landing page of the application after a successful login.
 
-![Welcome Page](screenshots/welcome.png)
+![Welcome Page](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/welcome.png
+)
 
 ### Products
 
 The products section allows the user to add, edit, and delete products from the store's inventory.
 
-![Products](screenshots/products.png)
+![Products](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/products.png
+)
 
 ### Current Stock
 
 This section allows the user to check the availability of every item.
 
-![Stock](screenshots/stock.png)
+![Stock](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/stock.png
+)
 
 ### Suppliers
 
 Here, the user can manage and manipulate the record of all the suppliers associated with the store.
 
-![Suppliers](screenshots/suppliers.png)
+![Suppliers](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/suppliers.png
+)
 
 ### Customers
 
 Allows the user to add new customers or update/delete existing customers in the database.
 
-![Customers](screenshots/customers.png)
+![Customers](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/customers.png
+)
 
 ### Sales
 
 This section is where users can sell a product and manage all the sales transactions. The user only needs to enter the customer and product code, and the software will handle the rest, showing all the necessary details like available stock and selling price of the product.
 
-![Sales](screenshots/sales.png)
+![Sales](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/sales.png)
 
 ### Purchase
 
 This section is where users can view purchase logs and enter new purchase transactions. Similar to the sales section, this section only requires the user to enter the product code, and the details that are already available in the database will immediately be displayed in the respective spaces.
 
-![Purchase](screenshots/purchase.png)
+![Purchase](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/purchase.png)
 
 ### Users
 
 This section is only available to **ADMINISTRATORS**. It allows them to view, add, and delete any users.
 
-![Users](screenshots/users.png)
+![Users](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/users.png)
 
 ### User Logs
 
 Stores and shows the administrator a log of all the users that have previously logged in, including their login time and logout time.
 
-![Logs](screenshots/logs.png)
+![Logs](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/logs.png)
 
 ---
 
@@ -134,7 +140,7 @@ The following are the technologies that have been used in the development of thi
 
 The ER diagram for the sample schema that has been used in the application.
 
-![ER Diagram](screenshots/ERDiagram.png)
+![ER Diagram](https://github.com/ADVindiancoder/Inventory-Management-System/blob/main/Readme%20logo/ERDiagram.png)
 
 ---
 
